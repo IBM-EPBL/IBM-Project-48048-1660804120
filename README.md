@@ -36,7 +36,9 @@
 
 [Project Git](https://github.com/mohamed8270/Machine-Learning-Kidney-Disease-Prediction-)
 
-[Demo Link]()
+[Demo Link](https://www.mediafire.com/file/d1rc9826dgkj73i/Demo.mp4/file)
+
+[YouTube Video](https://youtu.be/nTeslfRZvk8)
 
 
 
